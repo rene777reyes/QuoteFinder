@@ -1,0 +1,32 @@
+h1{
+    background-color: rgb(206, 206, 141);
+}
+body {
+    background-color: antiquewhite;
+    font-family:'Cambria';
+    
+}
+
+h3 {
+    font-size: 18px;
+}
+
+footer {
+    background-color: azure;
+    font-weight:lighter;
+    padding: 1px;
+
+}
+
+#modalLabel{
+    background-color: white;
+    text-align: center;
+}
+
+#tooShort{
+    color: red;
+}
+
+#range{
+    width: 70px;
+}
